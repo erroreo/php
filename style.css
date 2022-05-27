@@ -1,0 +1,35 @@
+h1{
+    font-family: DFKai-sb;
+    font-size: 50px;
+    text-align: center;
+}
+/* body{
+    background-image: url('背景2.jpg');
+} */
+table.login{
+    margin:auto; 
+}
+table.admin{
+    margin:auto; 
+}
+table.showlink{
+    margin:auto;
+}
+table.catalog{
+    margin:auto;
+    background-color:lightyellow;
+    border-width: 2px;
+    border-color: black;
+}
+table.order{
+    margin:auto;
+    background-color:lightyellow;
+    border-width: 2px;
+    border-color: black;
+}
+table.login td{
+    font-size: 20px;
+    font-family: DFKai-sb;
+    vertical-align: middle;
+    text-align: center;
+}
